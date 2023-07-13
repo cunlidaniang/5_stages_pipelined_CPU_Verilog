@@ -59,3 +59,6 @@ LED对应的地址是0x0000000C
 
 ## 问题及总结
 设计了一个pipeline cpu并进行了测试，通过了基础测试场景，并对效率进行测试，发现相比单周期CPU显著地提升了效率。
+
+## Reference
+计算机原理与设计 —Verilog HDL版 (李亚民) (Z-Library)
